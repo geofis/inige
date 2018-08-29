@@ -1,0 +1,9 @@
+\select@language {spanish}
+\contentsline {section}{Resumen}{1}{section*.1}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}{section.1}
+\contentsline {section}{\numberline {2}Resultados esperados}{2}{section.2}
+\contentsline {section}{\numberline {3}Materiales, m\IeC {\'e}todos, personal}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Materiales y servicios}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\'e}todos}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Personal}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Consideraciones finales}{5}{section.4}
