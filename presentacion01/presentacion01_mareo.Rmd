@@ -1,7 +1,7 @@
 ---
-title: <span style="font-size:90%;">Instituto de Investigaciones Geográficas-UASD (INIGE-UASD)</span>
-author: José Ramón Martínez Batlle, Monón <br> **UASD** <br> joseramon@geografiafisica.org <br> URL de esta presentación <br> []()
-date: 6 de septiembre de 2018 <br> <span style="font-size:70%;">Presentación realizada a petición de Edward Veras</span> <br> <span style="font-size:70%;">5 diapositivas</span>
+title: <span style="font-size:90%;">Instituto de Investigaciones Geográficas de la UASD (INIGE-UASD)</span>
+author: José Ramón Martínez Batlle, Monón <br> **UASD** <br> joseramon@geografiafisica.org <br> <br> <span style="font-size:70%;">URL de esta presentación <br> [https://github.com/geofis/inige/blob/master/presentacion01/presentacion01_mareo.Rmd](https://github.com/geofis/inige/blob/master/presentacion01/presentacion01_mareo.Rmd)</span>
+date: <br> 6 de septiembre de 2018 <br> <span style="font-size:70%;">Presentación realizada a petición de Edward Veras</span> <br> <span style="font-size:70%;"> 5 diapositivas, 5 minutos </span>
 output:
     ioslides_presentation: default
     beamer_presentation: default
@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="text-align: center"> **$n=$ número de investidorxs** </div>
 
 ## Estructura propuesta
-- Para el primer año, número de **investigadorxs** entre 3 y 5, **del área docente**. **NO EMPLEADOS EN ESTOS PUESTOS**
-- Exigencia de publicar al menos dos estudios por año en revistas científicas o en servidores de prepublicaciones
-- Posibilidad de contratación externa
-- Un (1, la unidad, singular) secretario/a
+- Para el primer año, número de **investigadorxs** entre 3 y 5, **del área docente**. **NO EMPLEADOS PARA ESTAS TAREAS**
+- Exigencia (preferiblemente por contrato) de **publicar al menos dos estudios por año** en revistas científicas o en servidores de prepublicaciones
+- Posibilidad de **contratación externa**
+- **Un** (1, la unidad, singular) secretario/a
