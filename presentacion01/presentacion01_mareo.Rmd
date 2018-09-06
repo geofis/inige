@@ -1,6 +1,6 @@
 ---
 title: <span style="font-size:90%;">Instituto de Investigaciones Geográficas de la UASD (INIGE-UASD)</span>
-author: José Ramón Martínez Batlle, Monón <br> **UASD** <br> joseramon@geografiafisica.org <br> <br> <span style="font-size:70%;">URL de esta presentación <br> [https://github.com/geofis/inige/blob/master/presentacion01/presentacion01_mareo.Rmd](https://github.com/geofis/inige/blob/master/presentacion01/presentacion01_mareo.Rmd)</span>
+author: José Ramón Martínez Batlle, Monón <br> **UASD** <br> joseramon@geografiafisica.org <br> <br> <span style="font-size:70%;">URL de esta presentación <br> [https://rawgit.com/geofis/inige/master/presentacion01/presentacion01_mareo.html](https://rawgit.com/geofis/inige/master/presentacion01/presentacion01_mareo.html)</span>
 date: <br> 6 de septiembre de 2018 <br> <span style="font-size:70%;">Presentación realizada a petición de Edward Veras</span> <br> <span style="font-size:70%;"> 5 diapositivas, 5 minutos </span>
 output:
     ioslides_presentation: default
